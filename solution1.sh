@@ -5,9 +5,13 @@
 # help command baked in to the cli.
 terraform version
 ####
+mkdir terraform
 git clone https://github.com/ABOGOL2020/my_terraform_project.git
 create a new folder "project_1"
 copy mike_web_app to project_1
+
+#####
+cd terraform/project_1/mike_web_app
 
 # Terraform
 terraform init
