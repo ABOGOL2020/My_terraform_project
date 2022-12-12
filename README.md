@@ -3,13 +3,12 @@
 
 # Terraform Peojects for beginner
 
-Welcome to Terraform - Terraform Projects for beginner.  These exercise files are meant to accompany my course on [Pluralsight](https://app.pluralsight.com/library/courses/terraform-getting-started).  The course was developed using version 1.0.8 of Terraform. Since the GA of version 1.0, HashiCorp has committed to no breaking changes until version 2.0. All the exercises in this course should be valid as long as you are using Terraform in the 1.X version family. The modules and providers in this course have no such guarantee, so I have pinned the version where applicable.
+Welcome to Terraform - Terraform Projects for beginner. This is my first terraform course.  The course was developed using version 1.3.6 of Terraform. Since the GA of version 1.0, HashiCorp has committed to no breaking changes until version 2.0. All the exercises in this course should be valid as long as you are using Terraform in the 1.X version family. The modules and providers in this course have no such guarantee, so I have pinned the version where applicable.
 
-This is my first terraform training. Those files should work with version 0.14.3 of Terraform, but no guarantees on anything newer.
 
 ## Using the files
 
-In the course, we will be using basic web application created by Mike's team, and also make a copy of this configuration filen and modify it as we progress in this course. The `base_web_app` directory has the basic web app configuration, which we will copy over to the `globo_web_app` and start making alterations.
+In the course, we will be using basic web application created by Mike's team, and also make a copy of this configuration filen and modify it as we progress in this course. The `mike_web_app` directory has the basic web app configuration, which we will copy over to the `project_1_web_app` and start making alterations.
 
 Challenge yourself to make updates to the file in "mike_we_app" to meet the evolving needs and requirements of the web application infrastructure. 
 For each module, there is completed solution for each module is in the `solution` directories. Please, first tackle the solution, then checking your answer.
