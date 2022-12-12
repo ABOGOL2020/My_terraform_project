@@ -5,12 +5,13 @@
 # help command baked in to the cli.
 terraform version
 ####
-create a new folder "project_1
+git clone https://github.com/ABOGOL2020/my_terraform_project.git
+create a new folder "project_1"
 copy mike_web_app to project_1
 
 # Terraform
 terraform init
-terraform plan -out project1.tfplan
+terraform plan -out project1.tfplan ### to create your plan and save it to project1.tfplan
 terraform apply "project1.tfplan"
 
 # Got to the Console and get the Public IP address for the EC2 instance
