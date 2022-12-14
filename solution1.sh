@@ -12,7 +12,7 @@ create a new folder "project_1" ##### in visual studio code
 copy mike_web_app to project_1
 
 #####
-cd terraform
+cd my_terraform_project
 cd project_1/mike_web_app
 
 # Terraform
